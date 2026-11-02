@@ -6,13 +6,13 @@ Matriculation Number: 25/18004
 Programme: Computer science.
 Course Code: COS 201
 
-Week 1: Introduction to Programming and Problem-Solving 
+## Week 1: Introduction to Programming and Problem-Solving 
 ### Practical Exercise 
 Created and executed my first Java programme. 
 File - week01/FirstProgram.java 
 Skills Practiced - Java class and main method - Output statements - Compilation and execution - GitHub version control 
 
-Week: 2 
+## Week: 2 
 ## Practical Title 
 Development Environment and First Java Program 
 ## Objective 
